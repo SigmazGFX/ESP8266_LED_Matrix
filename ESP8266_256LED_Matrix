@@ -20,7 +20,6 @@ int new_BRIGHTNESS =       64;   // shall be initially the same as brightness
 int SPEED          =       200;   // Full speed
 int new_SPEED      =       200;
 
-//--Test SmartMatrix stuff------------------------------
 #define MATRIX_HEIGHT kMatrixHeight
 #define MATRIX_WIDTH kMatrixWidth
 const int MATRIX_CENTER_X = MATRIX_WIDTH / 2;
