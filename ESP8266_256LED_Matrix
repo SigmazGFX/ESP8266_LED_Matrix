@@ -7,9 +7,6 @@ FASTLED_USING_NAMESPACE
 #endif
 
 #define LED_PIN     4
-//#define CLOCK_PIN   5
-//#define LED_TYPE    APA102
-//#define COLOR_ORDER BGR
 #define LED_TYPE    WS2812B
 #define COLOR_ORDER GRB
 #define MILLI_AMPERE      2000    // IMPORTANT: set here the max milli-Amps of your power supply 5V 2A = 2000
